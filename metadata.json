@@ -1,0 +1,6 @@
+{
+  "name": "Brand Builder",
+  "description": "Imagine your product across multiple mediums including billboards, newspapers, and social posts with consistent branding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["image-generation"]
+}
